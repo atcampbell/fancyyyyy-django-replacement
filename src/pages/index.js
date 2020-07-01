@@ -20,7 +20,9 @@ export default function Home() {
                         <div>
                             <span>
                                 Eurorack modules and radical electronic music
-                                😱😱😱
+                                <span role="img" aria-label="scream">
+                                    😱😱😱
+                                </span>
                             </span>
                         </div>
                         <div>
