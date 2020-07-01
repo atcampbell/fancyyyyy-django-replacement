@@ -34,8 +34,11 @@ a:hover {
 }
 
 .header span {
-    font-style: italic;
     padding: 1rem;
+}
+
+.header h1 {
+    font-style: italic;
 }
 
 .about {
