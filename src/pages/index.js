@@ -37,9 +37,6 @@ export default function Home() {
                                 </a>
                             </span>
                         </div>
-                        <div>
-                            <span>SOON - Rung Divisions V2 + MORE</span>
-                        </div>
                     </div>
                 </div>
                 <div className="content">
